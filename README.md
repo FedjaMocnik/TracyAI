@@ -30,19 +30,19 @@ Analiza s pomočjo LLM: Uporablja prilagojen Qwen model za zagotavljanje intelig
 
 Glavna logika projekta je implementirana v **app.py**. Tu je pregled ključnih komponent:
 
-search_court_cases(): Pošlje zahtevo API-ju CourtListener za iskanje pravnih primerov glede na parametre uporabnika.
+```search_court_cases()```: Pošlje zahtevo API-ju CourtListener za iskanje pravnih primerov glede na parametre uporabnika.
 
-check_citation_status(): Preveri status in precedenčno vrednost primera na podlagi njegovega citata.
+```check_citation_status()```: Preveri status in precedenčno vrednost primera na podlagi njegovega citata.
 
-FinalAnswerTool: Obdeluje in izboljšuje končne odgovore, ki jih ustvari AI.
+```FinalAnswerTool```: Obdeluje in izboljšuje končne odgovore, ki jih ustvari AI.
 
-HfApiModel (Qwen LLM): Uporablja Hugging Face Qwen LLM, ki je bil prilagojen na podatkih o sodnih primerih v ZDA s tehniko Low-Rank Adaptation (LoRA). LoRA je učinkovita metoda za prilagajanje velikih modelov z minimalnimi računalniškimi viri.
+```HfApiModel (Qwen LLM)```: Uporablja Hugging Face Qwen LLM, ki je bil prilagojen na podatkih o sodnih primerih v ZDA s tehniko Low-Rank Adaptation (LoRA). LoRA je učinkovita metoda za prilagajanje velikih modelov z minimalnimi računalniškimi viri.
 
-GradioUI: Zagotavlja interaktivni vmesnik za uporabnike.
+```GradioUI```: Zagotavlja interaktivni vmesnik za uporabnike.
 
 ### O CourtListener API
 
-CourtListener API je brezplačna pravna raziskovalna baza, ki omogoča dostop do sodnih odločb v ZDA. Uporabnikom omogoča pridobivanje mnenj, metapodatkov in precedenčnega statusa sodnih primerov. Ta projekt uporablja CourtListener za iskanje ustreznih pravnih informacij na podlagi uporabniških poizvedb.
+```CourtListener API``` je brezplačna pravna raziskovalna baza, ki omogoča dostop do sodnih odločb v ZDA. Uporabnikom omogoča pridobivanje mnenj, metapodatkov in precedenčnega statusa sodnih primerov. Ta projekt uporablja CourtListener za iskanje ustreznih pravnih informacij na podlagi uporabniških poizvedb.
 
 ### Zahteve
 
@@ -65,4 +65,4 @@ CourtListener API za omogočanje brezplačnega dostopa do pravnih podatkov.
 
 ## Zakaj sledljiv AI?
 
-V pravu je preglednost ključnega pomena. Tracy je zasnovana tako, da omogoča sledljivost vseh svojih odločitev in raziskav. Naš cilj je graditi AI, ki omogoča transparentnost in ponovljivost pravne analize, kar povečuje zaupanje in zanesljivost rezultatov.
+V pravu je preglednost ključnega pomena. Tracy je zasnovana tako, da omogoča sledljivost vseh svojih odločitev in raziskav. Naš cilj je graditi AI, ki omogoča transparentnost in ponovljivost pravne analize, kar povečuje zaupanje, zanesljivost rezultatov in zmanjšanje halucinacij.
