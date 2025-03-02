@@ -67,8 +67,7 @@ Pogoji uporabe (TOS) pogosto vsebujejo **zapletene pravne formulacije**, ki jih 
 
 ## Avtorji  
 
-- **Fedja Močnik**  
-- **Oliver Majer**  
+- **Fedja Močnik**, **Oliver Majer**, **Jaša Catar**, **Neva Marjanovič**
 
 ---
 
