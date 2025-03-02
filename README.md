@@ -61,8 +61,8 @@ Pogoji uporabe (TOS) pogosto vsebujejo **zapletene pravne formulacije**, ki jih 
 ## Zahteve za uporabo  
 
 - **Python 3.8+**  
-- **Hugging Face API ključ**  
-- **CourtListener API ključ**  
+- **Hugging Face API ključ**  (brezplačen ob registraciji) 
+- **CourtListener API ključ**  (Brezplačen ob registraciji) 
 
 ---
 
