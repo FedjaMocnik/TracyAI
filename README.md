@@ -1,9 +1,9 @@
 # TracyAI
-Tracy - Pravni AI asistent
+**Tracy** - Pravni AI asistent
 
 "No trace, no case"
 
-Tracy je pravni raziskovalni pomočnik, ki temelji na umetni inteligenci in je zasnovan za študente prava, pravne strokovnjake ter raziskovalce. Uporablja prilagojen veliki jezikovni model (LLM) za iskanje ustreznih sodnih primerov v ZDA s pomočjo CourtListener API. To orodje se lahko uporablja za pravne domače naloge, raziskave primerov ali splošno pravno referenco.
+Tracy je pravni raziskovalni pomočnik, ki temelji na umetni inteligenci in je zasnovan za študente prava, pravne strokovnjake ter raziskovalce. Uporablja prilagojen veliki jezikovni model (LLM - 32B Qwen finetunan za pravno uporabo) za iskanje ustreznih sodnih primerov v ZDA s pomočjo CourtListener API. To orodje se lahko uporablja za pravne domače naloge, raziskave primerov ali splošno pravno referenco.
 
 V pravu umetna inteligenca ne sme delovati kot "črna skrinjica" (blackbox). S Tracy gradimo sledljiv in transparenten AI, kjer so vsi koraki raziskave in odločanja jasno prikazani.
 
@@ -20,7 +20,6 @@ Analiza s pomočjo LLM: Uporablja prilagojen Qwen model za zagotavljanje intelig
 ### Struktura projekta
 ```
 - tools/                 # Dodatna, neintegrirana orodja
-- .gitattributes         # Git konfiguracijska datoteka
 - Gradio_UI/             # Uporabniški vmesnik, zgrajen z Gradio (Hugging Face)
 - agent.json             # Metapodatki in konfiguracije agenta
 - app.py                 # Glavna skripta aplikacije
