@@ -2,7 +2,7 @@
 
 ## Tracy – Pravni AI asistent
 
-**"No trace, no case"**
+**"No trace, no case" - ekipa RegulaTOS**
 
 Tracy je pravni raziskovalni pomočnik, zasnovan za študente prava, pravne strokovnjake, raziskovalce, pa tudi potrošnike in uporabnike digitalnih storitev. Združuje **pravno raziskovanje sodnih primerov** in **analizo pogojev uporabe (TOS)**, da pomaga razumeti in zaščititi pravice uporabnikov.
 
@@ -67,7 +67,7 @@ Pogoji uporabe (TOS) pogosto vsebujejo **zapletene pravne formulacije**, ki jih 
 
 ## Avtorji  
 
-- **Fedja Močnik**, **Oliver Majer**, **Jaša Catar**, **Neva Marjanovič**
+- Ekipa RegulaTOS: **Fedja Močnik**, **Oliver Majer**, **Jaša Catar**, **Neva Marjanovič**
 
 ---
 
