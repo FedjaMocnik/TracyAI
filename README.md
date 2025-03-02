@@ -76,8 +76,6 @@ Pogoji uporabe (TOS) pogosto vsebujejo **zapletene pravne formulacije**, ki jih 
 - **Hugging Face** – za njihove odprtokodne modele in Gradio framework.  
 - **CourtListener API** – za dostop do pravnih podatkov in sodnih odločb.  
 - **[Digital Services Terms and Conditions Database](https://platform-contracts.digital-strategy.ec.europa.eu/)** – za podatkovno infrastrukturo, ki omogoča analizo pogojev uporabe digitalnih storitev.  
-- **Razvojna ekipa** – za ustvarjanje AI, ki omogoča **preglednost, zanesljivost in zaščito pravic uporabnikov**.  
-
 ---
 
 ## Zakaj je sledljiv AI ključen?  
