@@ -7,7 +7,7 @@ from tools.final_answer import FinalAnswerTool
 from Gradio_UI import GradioUI
 from typing import List, Dict
 
-COURTLISTENER_API_KEY = "8287a459013c68a65edda52a2f96126138f567e9"  
+COURTLISTENER_API_KEY = "insert_API_key"  
 API_BASE = "https://www.courtlistener.com/api/rest/v4/"
 
 @tool
