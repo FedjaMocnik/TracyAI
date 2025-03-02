@@ -36,7 +36,7 @@ Pogoji uporabe (TOS) pogosto vsebujejo **zapletene pravne formulacije**, ki jih 
 ## Struktura projekta  
 
 ```
--EU_api                  #izgradja za naš API
+- Lawbrainer             #izgradja za naš API
 - tools/                 # Dodatna, neintegrirana orodja  
 - Gradio_UI/             # Uporabniški vmesnik, zgrajen z Gradio (Hugging Face)  
 - agent.json             # Metapodatki in konfiguracije agenta  
