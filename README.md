@@ -9,7 +9,7 @@ Tracy je pravni raziskovalni pomočnik, zasnovan za študente prava, pravne stro
 Umetna inteligenca v pravu ne sme delovati kot "črna skrinjica" (**blackbox**). S Tracy gradimo **sledljiv in transparenten AI**, kjer so vsi koraki raziskave in odločanja jasno vidni. To pomeni večjo zanesljivost, zmanjšanje napačnih interpretacij in boljše razumevanje pravnih tveganj.
 
 ## VIDEA
-Prilagam tudi naslednje dva videa. Prvi je pitch, ki smo ga pospredovali. Drugi pa je bolj natančno razloženo in nezmonitano  (da ni nobenega movie magica), kaj se dogaja v zaledju. Ogled priporočam bolj vsem, ki jih zanima kako je narejen in kaj dejansko dela :)
+Prilagam tudi naslednje dva videa. Prvi je pitch, ki smo ga pospredovali. Drugi pa je bolj natančno razloženo in neobdelano  (da ni nobenega movie magica), kaj se dogaja v zaledju. Ogled priporočam bolj vsem, ki jih zanima kako je narejen in kaj dejansko dela :)
 
 [Link do pitcha](https://youtu.be/YvAVVRJ_F8k)
 
