@@ -10,7 +10,9 @@ Umetna inteligenca v pravu ne sme delovati kot "črna skrinjica" (**blackbox**).
 
 ## VIDEA
 Prilagam tudi naslednje dva videa. Prvi je pitch, ki smo ga pospredovali. Drugi pa je bolj natančno razloženo in nezmonitano  (da ni nobenega movie magica), kaj se dogaja v zaledju. Ogled priporočam bolj vsem, ki jih zanima kako je narejen in kaj dejansko dela :)
+
 [Link do pitcha](https://youtu.be/YvAVVRJ_F8k)
+
 [Link do tehničnega dela](https://youtu.be/Xita3fI71Pc)
 
 ---
